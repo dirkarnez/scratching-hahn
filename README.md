@@ -1,5 +1,8 @@
 scratching-hahn
 ===============
+### TODOs
+- [ ] in memory playback using portaudio
+
 ### Using
 - [dirkarnez/libsndfile-prebuilt](https://github.com/dirkarnez/libsndfile-prebuilt)
 - [dirkarnez/portaudio-prebuilt](https://github.com/dirkarnez/portaudio-prebuilt)
