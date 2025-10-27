@@ -16,4 +16,4 @@ scratching-hahn
 - https://github.com/mixxxdj/mixxx/blob/main/src/engine/bufferscalers/enginebufferscalest.cpp
 
 
-https://github.com/dirkarnez/simple-sampler/blob/master/app/scripts/main.js#L44
+
